@@ -1,0 +1,5 @@
+.idea
+*.pyc
+.tox
+__pycache__
+python_env

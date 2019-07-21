@@ -1,0 +1,2 @@
+bocadillo==0.17.0
+uvicorn==0.8.4
