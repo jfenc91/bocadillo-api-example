@@ -1,6 +1,9 @@
 test:
 	tox
 
+dev: 
+	uvicorn asgi:app --reload
+
 build:
 	docker build . -t api
 
